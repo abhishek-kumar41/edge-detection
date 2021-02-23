@@ -1,6 +1,6 @@
 # edge-detection
 
-Edge detector for gray scale images
+**Edge detector for gray scale images**
 
 Steps:
 -> Smoothing the input image using a Gaussian filter.
